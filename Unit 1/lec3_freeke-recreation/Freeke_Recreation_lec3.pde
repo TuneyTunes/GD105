@@ -1,8 +1,7 @@
-// This program re-creates
-// Saskia Freeke "220302"
+// This program re-creates Saskia Freeke "220302"
 // reference >> https://tinyurl.com/SF220302
 
-void setup()  {
+void setup() {
 size(1500,1024);
 }
 
@@ -80,4 +79,11 @@ square(-668, -292, 66);
 fill(#fe5d9f);
 square(-612, 303, 47);
 
+// Save the canvas on the first frame
+  if (frameCount == 1) {
+    String filename = "FreekeRecreation";
+    save(filename + ".png");
+    print("image saved as " + filename + ".png");
+    noLoop(); // Stop the draw loop after saving the image
+  }
 }
