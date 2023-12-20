@@ -21,5 +21,5 @@ Lecture 9 - Creating a grid using arrays
 Lecture 10 - Poetry Art Piece recreated with strings and PVectors
 Lecture 11 - 12: Original Repitition Piece with PGrapics and Custom Classes
 
-# Unit 5: Games & Interaction - Work in Progress
-Playable Processing Game (Not submitted yet.)
+# Unit 5: Games & Interaction - Status: Completed
+Playable Processing Game
