@@ -12,10 +12,10 @@ Lecture 4 - Creating a collage using images, shapes, and text with a custom font
 Lecture 5 - Learning motion
 Lecture 6 - Creating a GIF
 
-# Unit 3: Control, Flow, & Arrays - Work in Progress
+# Unit 3: Control, Flow, & Arrays - Status: Completed
 Lecture 7 - Understanding conditions
-Lecture 8 - Using loops to create a piece with 105 lines (Not submitted yet.)
-Lecture 9 - Creating a grid using arrays (Not submitted yet.)
+Lecture 8 - Using loops to create a piece with 105 lines
+Lecture 9 - Creating a grid using arrays
 
 # Unit 4: Objects - Status: Completed
 Lecture 10 - Poetry Art Piece recreated with strings and PVectors
